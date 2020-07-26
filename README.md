@@ -1,1 +1,2 @@
-# AppForTest
+npm install 
+npm start
